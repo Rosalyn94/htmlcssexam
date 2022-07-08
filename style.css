@@ -30,3 +30,6 @@ justify-content: center;}
     .c { grid-area: 2 / 6 / 4 / span 2; 
         background-color: rgb(34, 173, 34);
     justify-content: center;}
+.img{
+width: 50%;
+}
